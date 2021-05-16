@@ -24,3 +24,5 @@ r.speak()
 const a = new Ai('hello')
 a.speak()
 a.walk()
+
+console.log(2)
